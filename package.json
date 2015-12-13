@@ -2,11 +2,11 @@
   "name": "shower-mirror-server",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "scripts": {
-    "start": "DEBUG=shower-mirror node --harmony index.js"
-  },
+  "main": "cli/cli.js",
   "author": "Denis Hananein <i@zloy.me>",
+  "bin", {
+      "shower-mirror-server": "./cli/cli.js"
+  },
   "license": "MIT",
   "dependencies": {
     "debug": "^2.2.0",
