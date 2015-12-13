@@ -4,7 +4,7 @@
   "description": "",
   "main": "cli/cli.js",
   "author": "Denis Hananein <i@zloy.me>",
-  "bin", {
+  "bin": {
       "shower-mirror-server": "./cli/cli.js"
   },
   "license": "MIT",
