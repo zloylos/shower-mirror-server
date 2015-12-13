@@ -1,6 +1,6 @@
 {
   "name": "shower-mirror-server",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "cli/cli.js",
   "author": "Denis Hananein <i@zloy.me>",
